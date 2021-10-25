@@ -1,0 +1,4 @@
+Password 1: HELPFUL
+Password 2: INTERACTIVE
+Password 3: INFORMATIVE
+Password 4: DATA
